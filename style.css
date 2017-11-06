@@ -1,18 +1,23 @@
 body {
-    background: wheat ;
+    background: green;
+    color: white;
+}
+h1 {
+    color: white;
 }
 #navigation {
-    background: green;
     margin: 10px;
     padding: 10px;
 }
 .nav-link {
-    background: red;
+    color: white;
     padding: 5px;
     margin: 5px;
+    text-decoration: none;
+    border: 1px solid black;
 }
 
 .nav-link:hover {
-    font-size: 32px;
-    color: white;
+    color: yellow;
 }
+
