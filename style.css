@@ -97,5 +97,7 @@ footer {
 	clear: both;
 	margin: 20px;
 	color: #0d3a12;
+	position: absolute;
+	bottom: 0;
 }	
    
